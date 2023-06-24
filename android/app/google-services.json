@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "738288924743",
+    "project_id": "doc-ml-reader",
+    "storage_bucket": "doc-ml-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738288924743:android:8c864deccbff61bb3dd962",
+        "android_client_info": {
+          "package_name": "com.gptdocproto01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738288924743-qn4plb9o40rd3e9dbcdselrf1v3of4pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARGZYUxpV6VFysHQ3cspf_EydjqD_K9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738288924743-qn4plb9o40rd3e9dbcdselrf1v3of4pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738288924743:android:f893c015fd6edeb23dd962",
+        "android_client_info": {
+          "package_name": "com.technium.docprocessingalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738288924743-qn4plb9o40rd3e9dbcdselrf1v3of4pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARGZYUxpV6VFysHQ3cspf_EydjqD_K9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738288924743-qn4plb9o40rd3e9dbcdselrf1v3of4pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
