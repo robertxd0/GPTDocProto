@@ -1,0 +1,5 @@
+{
+    "backendUrl": "http://172.28.11.15:3000/",
+    "authToken": "none-for-now",
+    "maxRetries": 3
+}
