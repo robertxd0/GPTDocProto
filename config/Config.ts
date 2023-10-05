@@ -26,7 +26,7 @@ export class Config {
             throw new Error('Missing backendUrl in config');
         }
         if (!config.authToken) {
-            throw new Error('Missing authToken in confiag');
+            throw new Error('Missing authToken in config');
         }
         if (!config.maxRetries) {
             throw new Error('Missing maxRetries in config');

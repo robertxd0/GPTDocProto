@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { View } from 'react-native';
 import Scanner from './components/scanner/Scanner';
-import DocumentQuery from './components/document-query/DocumentQuery';
+import DocumentQueryChat from './components/document-query/DocumentQuery';
 
  
 const App = () => {
@@ -18,7 +18,7 @@ const App = () => {
         scannedDocResponse === '' ? (
           <Scanner onScanComplete={handleCompletedScan}/>
         ) : (
-          <DocumentQuery initialAnswer={scannedDocResponse}/>
+          <DocumentQueryChat initialAnswer={scannedDocResponse}/>
         )
       }
      
